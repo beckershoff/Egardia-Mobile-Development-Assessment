@@ -14,7 +14,7 @@ Your task is to make a simple  App that contains:
 - By clicking on the car, the detailed screen must be open, where you can see the bigger picture and more details about the car, such as kilometers and year.
 
 ## Data
-The json data must be fetched from URL every time the App starts, using this link: https://raw.githubusercontent.com/igoregardia/Autos-Android-Assessment/master/autos.json So if the changes happens in json file, the App will always provide the updated data. Keep in mind that in future the new fields can be added to json file, for example the description of car, so the App should ignore new fields instead of crashing with JsonParseException. Warning! Just copying the content and storing it in a local file is not enough.
+The json data must be fetched from URL every time the App starts, using this link: https://github.com/beckershoff/Egardia-Mobile-Development-Assessment/blob/master/cars.json So if the changes happens in json file, the App will always provide the updated data. Keep in mind that in future the new fields can be added to json file, for example the description of car, so the App should ignore new fields instead of crashing with JsonParseException. Warning! Just copying the content and storing it in a local file is not enough.
 
 ## Requirements
 - You are free to use any methodologies, principles, etc.
